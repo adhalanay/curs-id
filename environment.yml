@@ -1,0 +1,8 @@
+name: curs-id
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - sage
