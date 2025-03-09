@@ -28,3 +28,5 @@
 *.pdfsync
 .ipynb_checkpoints/*
 Untitled*
+*.db
+Geometrie*
